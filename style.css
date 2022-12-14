@@ -1,3 +1,40 @@
 body {
+  background-color:#CCCCFF
+}
+h2{
+  color:white;
+  font-family:"Nova Mono", Fantasy;
+  font-size:400%;
+  letter-spacing:6px;
+  text-decoration:underline
+}
+p{
+  color:white;
+  font-size:200%;
+  letter-spacing:
+}
+img{
+  border:dashed white 4px;
+  height:30%;
+  width:30%;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 50px;
+  font-family:"Nova Mono", Fantasy;
+  color: #95A5A6;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: #17202A;
+  color:white;
+}
 
 }
